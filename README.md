@@ -23,8 +23,8 @@ The machine learning pipeline is divided into two python notebooks. The first is
 
 The second notebook includes the algorithm training, hyperparameter tuning and evaluation. The libraries used in this notebook are the following:
 
-*sklearn
-*keras (must use pytorch or tensorflow backend for compatibility)
+* sklearn
+* keras (must use pytorch or tensorflow backend for compatibility)
 
 
 The last notebook is the production data test, a randomly synthesized dataset is fed into the model to test for validation before production.
