@@ -9,7 +9,7 @@ This application is developed in Python3. The stack is divided into three compon
 3. HTML and CSS for frontend development
 
 ### Data Source
-The dataset used in this project is taken from Kaggle and can be found at https://www.kaggle.com/ninzaami/loan-predication
+The dataset used in this project is taken from Kaggle and can be found at [a link](https://www.kaggle.com/ninzaami/loan-predication)
 
 ### Machine Learning:
 The machine learning pipeline is divided into two python notebooks. The first is the data wrangling notebook which contains the data ingestion, exploratory data analysis, visualization and preprocessing. The libraries in this notebook are listed below.
@@ -31,4 +31,4 @@ The last notebook is the production data test, a randomly synthesized dataset is
 
 
 ### Web Development:
-For web 
+I use Django restframework to develop the backend. I follow the documentation found here [a link](https://docs.djangoproject.com/en/3.0/)  which is very well written to build the application. 
