@@ -12,7 +12,7 @@ class ApprovalForm(forms.Form):
     Credit_History=forms.ChoiceField(choices=[('0', 0), ('1', 1)])
     Gender=forms.ChoiceField(choices=[('Male', 'Male'), ('Female', 'Female')])
     Married=forms.ChoiceField(choices=[('Yes', 'Yes'), ('No', 'No')])
-    Education=forms.ChoiceField(choices=[('Graduated', 'Graduated'), ('Not_Graduated', 'Not_Graduated')])
+    Education=forms.ChoiceField(choices=[('Graduated', 'Graduated'), ('Not Graduated', 'Not Graduated')])
     Self_Employed=forms.ChoiceField(choices=[('Yes', 'Yes'), ('No', 'No')])
     Property_Area=forms.ChoiceField(choices=[('Rural', 'Rural'), ('Urban', 'Urban'),  ('Semiurban', 'Semiurban')])
     

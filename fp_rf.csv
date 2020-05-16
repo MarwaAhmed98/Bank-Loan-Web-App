@@ -1,0 +1,6 @@
+Index No.,Dependents,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Gender_Female,Gender_Male,Married_No,Married_Yes,Education_Graduate,Education_Not Graduate,Self_Employed_No,Self_Employed_Yes,Property_Area_Rural,Property_Area_Semiurban,Property_Area_Urban,Ground Truth,Random Forest Preds
+176,0,0.03834261,0,0.272419628,0.72972973,1,0,1,0,1,1,0,1,0,1,0,0,0,1
+118,0.666666667,0.026357452,0,0.175972927,0.72972973,1,0,1,0,1,0,1,1,0,1,0,0,0,1
+357,0,0.044007421,0.075922806,0.27749577,0.72972973,1,0,1,0,1,1,0,1,0,0,0,1,0,1
+163,0,0.040420532,0,0.199661591,0.72972973,1,0,1,1,0,1,0,1,0,0,1,0,0,1
+164,0,0.12183055,0,0.346869712,0.72972973,1,1,0,1,0,1,0,1,0,0,1,0,0,1
