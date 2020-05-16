@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-Index No.,Dependents,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Gender_Female,Gender_Male,Married_No,Married_Yes,Education_Graduate,Education_Not Graduate,Self_Employed_No,Self_Employed_Yes,Property_Area_Rural,Property_Area_Semiurban,Property_Area_Urban,Ground Truth,Logistic Regression Preds
-286,0,0.242176871,0.155628454,0.949238579,0.72972973,1,0,1,0,1,1,0,1,0,1,0,0,0,1
-244,0,0.248398268,0,0.796954315,0.72972973,1,0,1,1,0,1,0,1,0,1,0,0,0,1
-101,0,0.054829932,0,0.126903553,0.72972973,1,1,0,0,1,1,0,1,0,1,0,0,0,1
-176,0,0.03834261,0,0.272419628,0.72972973,1,0,1,0,1,1,0,1,0,1,0,0,0,1
-118,0.666666667,0.026357452,0,0.175972927,0.72972973,1,0,1,0,1,0,1,1,0,1,0,0,0,1
-357,0,0.044007421,0.075922806,0.27749577,0.72972973,1,0,1,0,1,1,0,1,0,0,0,1,0,1
-163,0,0.040420532,0,0.199661591,0.72972973,1,0,1,1,0,1,0,1,0,0,1,0,0,1
-164,0,0.12183055,0,0.346869712,0.72972973,1,1,0,1,0,1,0,1,0,0,1,0,0,1
-271,0,0.106369821,0.123149215,0.505922166,0.72972973,1,0,1,1,0,1,0,1,0,1,0,0,0,1
-=======
 ,Dependents,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Gender_Female,Gender_Male,Married_No,Married_Yes,Education_Graduate,Education_Not Graduate,Self_Employed_No,Self_Employed_Yes,Property_Area_Rural,Property_Area_Semiurban,Property_Area_Urban,Ground Truth,Logistic Regression Preds
 286,0.0,0.24217687074829933,0.155628454059166,0.949238578680203,0.7297297297297298,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0,1
 244,0.0,0.24839826839826842,0.0,0.7969543147208121,0.7297297297297298,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0,1
@@ -20,4 +8,3 @@ Index No.,Dependents,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Te
 163,0.0,0.04042053184910328,0.0,0.1996615905245347,0.7297297297297298,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0,1
 164,0.0,0.12183055040197897,0.0,0.34686971235194586,0.7297297297297298,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0,1
 271,0.0,0.10636982065553495,0.12314921535597127,0.5059221658206429,0.7297297297297298,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0,1
->>>>>>> 19c80579b9402bcaeeb5e629749a7b4b7e1b8a12
