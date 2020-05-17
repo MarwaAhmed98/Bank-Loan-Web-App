@@ -23,9 +23,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'h_r&rqb6rq-0e@hei&=ps_rklu0ig^p&mf&_vlp=+juwl=9l$q'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-
-ALLOWED_HOSTS = []
+DEBUG = False
+ALLOWED_HOSTS = ['https://rougebankmyloan.herokuapp.com/']
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
