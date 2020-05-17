@@ -1,4 +1,4 @@
-This project is the Udacity Machine Learning Engineer Capstone project, you can find the proposal here [a relative link](Udacity Machine Learning Engineer Capstone.pdf)
+
 # RougeBank Fintech App
 A new approach to banking technology that's fast, accurate and more agile🚀. 
 Get your loan applocations approved faster and have the flexibility to learn from your customers as you grow. I present to you, ROugeBank loan app, a progressive web application powered by artifical intelligence to deliver loan applications faster. 
