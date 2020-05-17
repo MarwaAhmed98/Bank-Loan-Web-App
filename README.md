@@ -43,9 +43,12 @@ The middlewares used in this project include:
 2. Activate virtual environment by running the following line of code 
 ```
 cd venv/Scripts/activate
-
+```
 3. run the following command in terminal 
-``` python manage.py runserver
+
+``` 
+python manage.py runserver
+```
 4. You'll be promoted to follow a link which opens in your browser localhost (e.g.ttp://127.0.0.1:8000), click on it
 
 5. Test it out
